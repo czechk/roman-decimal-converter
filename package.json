@@ -1,0 +1,14 @@
+{
+  "name": "roman-numbers-converter",
+  "version": "1.0.0",
+  "description": "simple roman <=> decimal converter",
+  "main": "roman-converter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "k.czech@ymail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
